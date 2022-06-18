@@ -1,2 +1,1 @@
-# SQL-database
-Simple database with a few operations
+Simple database based on The Office serial.
